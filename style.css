@@ -1,0 +1,14 @@
+html, body {
+	background: #79ff4d;
+	font-family: 'Gloria Hallelujah', sans-serif;
+	color: #6C6B6B;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+.header{
+	overflow: auto;
+	display: block;
+	clear:both;
+	background: #79ff4d;
+}
